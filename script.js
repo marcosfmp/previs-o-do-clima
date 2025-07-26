@@ -1,4 +1,5 @@
-const apiKey = "INSIRA_SUA_API_KEY_AQUI"; // Pegue no https://openweathermap.org/api
+const apiKey = "123abc456def789ghi000"; // sua chave real aqui
+
 
 window.onload = () => {
   const cidadeFixada = localStorage.getItem("cidadeFixada");
